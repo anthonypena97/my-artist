@@ -1,7 +1,7 @@
 # my-artist
-a music player app where fans can keep up to date with their favorite artists
-
 ![myartist-step_one-new_theme](https://user-images.githubusercontent.com/79285555/176287360-272c9664-0cb2-472f-b8c3-6f44ba510ce4.png)
+
+a music player app where fans can keep up to date with their favorite artists
 
 ###### Documents related to basecode bug of go_router 4.0.1 package incompatibalility 
 https://github.com/flutter/codelabs/pull/1004
