@@ -3,7 +3,16 @@
 
 a music player app where fans can keep up to date with their favorite artists
 
+---
+
+Application written with [Flutter](https://flutter.dev/).
 Designed for Desktop, Tablet, and Mobile.
+
+---
+
+This application was written following the Flutter Codelab ["Boring to Beautiful"](https://codelabs.developers.google.com/codelabs/flutter-boring-to-beautiful#0)
+
+---
 
 ###### Documents related to basecode bug of go_router 4.0.1 package incompatibalility 
 https://github.com/flutter/codelabs/pull/1004
