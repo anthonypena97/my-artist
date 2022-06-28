@@ -10,7 +10,7 @@ Designed for Desktop, Tablet, and Mobile.
 
 ---
 
-This application was written following the Flutter Codelab ["Boring to Beautiful"](https://codelabs.developers.google.com/codelabs/flutter-boring-to-beautiful#0)
+This application was written following the Flutter [Codelab](https://codelabs.developers.google.com/?product=flutter),  ["Boring to Beautiful"](https://codelabs.developers.google.com/codelabs/flutter-boring-to-beautiful#0)
 
 ---
 
